@@ -2,7 +2,7 @@
 
 <img align="right" width="174" height="230" src="docs/assets/images/PH.jpg">
 
-I am a first year PhD student at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) in Leipzig under the supervision of [Bernd Sturmfels](https://math.berkeley.edu/~bernd/). Before that, I was a masters student at Moscow State University, where my advisors were [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/) and Yury Razmyslov. I am broadly interested in applied algebra with a particular interest in differential algebra and real algebraic geometry.
+I am a first year PhD student at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) in Leipzig under the supervision of [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://simontelen.webnode.page/). Before that, I was a masters student at Moscow State University, where my advisors were [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/) and Yury Razmyslov. I am broadly interested in applied algebra with a particular interest in differential algebra and real algebraic geometry.
 
 
 
