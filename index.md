@@ -13,4 +13,4 @@ My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 ## List of publications
 * [On realizing differential-algebraic equations by rational dynamical systems](https://doi.org/10.1145/3476446.3535492) (with Gleb Pogudin), ACM International Symposium on Symbolic and Algebraic Computation
 (ISSAC), 2022.
-* [From algebra to analysis: new proofs of theorems by Ritt and Seidenberg](https://arxiv.org/abs/2107.03012) (with Gleb Pogudin and Yury Razmyslov), Proceedings of American Mathematical Society, 2022.
+* [From algebra to analysis: new proofs of theorems by Ritt and Seidenberg](https://arxiv.org/abs/2107.03012) (with Gleb Pogudin and Yury Razmyslov), Proceedings of the American Mathematical Society, 2022.
