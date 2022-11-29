@@ -6,11 +6,12 @@ I am a first year PhD student at the [Max Planck Institute for Mathematics in th
 
 
 
-Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_aug.pdf).
+Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_nov.pdf).
 
 My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 
 ## List of publications
+* [Gibbs Manifolds](https://arxiv.org/abs/2211.15490) (with Bernd Sturmfels and Simon Telen), arXiv:2211.15490, 2022.
 * [On realizing differential-algebraic equations by rational dynamical systems](https://doi.org/10.1145/3476446.3535492) (with Gleb Pogudin), ACM International Symposium on Symbolic and Algebraic Computation
-(ISSAC), 2022.
-* [From algebra to analysis: new proofs of theorems by Ritt and Seidenberg](https://arxiv.org/abs/2107.03012) (with Gleb Pogudin and Yury Razmyslov), Proceedings of the American Mathematical Society, 2022.
+(ISSAC), 2022. [Preprint](https://arxiv.org/abs/2203.03555)
+* [From algebra to analysis: new proofs of theorems by Ritt and Seidenberg](https://doi.org/10.1090/proc/16065) (with Gleb Pogudin and Yury Razmyslov), Proceedings of the American Mathematical Society, 2022. [Preprint](https://arxiv.org/abs/2107.03012)
