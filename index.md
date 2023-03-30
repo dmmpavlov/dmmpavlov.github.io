@@ -11,6 +11,7 @@ Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_March_2023.pdf).
 My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 
 ## List of publications
+* [On real and observable realizations of input-output equations](https://arxiv.org/abs/2303.16799) (with Sebastian Falkensteiner and J. Rafael Sendra), arXiv:2303.16799, 2023.
 * [Logarithmically Sparse Symmetric Matrices](https://arxiv.org/abs/2301.10042), arXiv:2301.10042, 2023.
 * [Gibbs Manifolds](https://arxiv.org/abs/2211.15490) (with Bernd Sturmfels and Simon Telen), arXiv:2211.15490, 2022.
 * [On realizing differential-algebraic equations by rational dynamical systems](https://doi.org/10.1145/3476446.3535492) (with Gleb Pogudin), ACM International Symposium on Symbolic and Algebraic Computation
