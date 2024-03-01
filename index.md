@@ -6,11 +6,12 @@ I am a second year PhD student at the [Max Planck Institute for Mathematics in t
 
 
 
-Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_dec23.pdf). You can also view my [Google Scholar](https://scholar.google.com/citations?user=VwCmjKwAAAAJ) and [ORCID](https://orcid.org/0009-0002-0116-4659) pages.
+Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Mar24.pdf). You can also view my [Google Scholar](https://scholar.google.com/citations?user=VwCmjKwAAAAJ) and [ORCID](https://orcid.org/0009-0002-0116-4659) pages.
 
 My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 
 ## List of publications
+* [Santaló Geometry of Convex Polytopes](https://arxiv.org/abs/2402.18955) (with Simon Telen), arXiv:2402.18955, 2024.
 * [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) (with Eliana Duarte and Maximilian Wiesmann), arXiv:2308.11538, 2023.
 * [Combinatorics of *m*=1 Grasstopes](https://arxiv.org/abs/2307.09603) (with Yelena Mandelshtam and Elizabeth Pratt), arXiv:2307.09603, 2023.
 * [On real and observable realizations of input-output equations](https://arxiv.org/abs/2303.16799) (with Sebastian Falkensteiner and J. Rafael Sendra), arXiv:2303.16799, 2023.
