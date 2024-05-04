@@ -1,6 +1,6 @@
 ## About me
 
-<img align="right" width="132" height="192" src="docs/assets/images/PH24.jpg">
+<img align="right" width="198" height="288" src="docs/assets/images/PH24.jpg">
 
 I am a second year PhD student at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) in Leipzig under the supervision of [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://simontelen.webnode.page/). Before that, I was a masters student at Moscow State University, where my advisors were [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/) and Yury Razmyslov. I am primarily interested in real algebraic geometry and its applications to physics, in particular, to quantum information and particle scattering. My other mathematical interests include differential algebra and algebraic combinatorics.
 
