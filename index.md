@@ -15,6 +15,7 @@ My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 * [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) (with Eliana Duarte and Maximilian Wiesmann), arXiv:2308.11538, 2023.
 * [Combinatorics of *m*=1 Grasstopes](https://arxiv.org/abs/2307.09603) (with Yelena Mandelshtam and Elizabeth Pratt), arXiv:2307.09603, 2023.
 * [On real and observable realizations of input-output equations](https://arxiv.org/abs/2303.16799) (with Sebastian Falkensteiner and J. Rafael Sendra), arXiv:2303.16799, 2023.
+
 ## Published articles
 * [Logarithmically Sparse Symmetric Matrices](https://doi.org/10.1007/s13366-024-00753-y), *Beiträge zur Algebra und Geometrie*, 2024. [Preprint](https://arxiv.org/abs/2301.10042)
 * [Gibbs Manifolds](https://doi.org/10.1007/s41884-023-00111-2) (with Bernd Sturmfels and Simon Telen), *Information Geometry*, 2023. [Preprint](https://arxiv.org/abs/2211.15490)
