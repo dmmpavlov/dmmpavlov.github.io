@@ -4,11 +4,12 @@
 
 I am a postdoctoral reseracher in the [Numerical Nonlinear Algebra group](https://www.mis.mpg.de/numerical-nonlinear-algebra) at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) in Leipzig. I did my PhD at the same institute under the supervision of [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://simontelen.webnode.page/). Before that, I was a masters student at Moscow State University, where my advisors were [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/) and Yury Razmyslov. I am primarily interested in real algebraic geometry and its applications to physics, in particular, to quantum information and particle scattering. My other mathematical interests include differential algebra and algebraic combinatorics.
 
-Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Aug24.pdf). You can also view my [Google Scholar](https://scholar.google.com/citations?user=VwCmjKwAAAAJ) and [ORCID](https://orcid.org/0009-0002-0116-4659) pages.
+Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Sep24.pdf). You can also view my [Google Scholar](https://scholar.google.com/citations?user=VwCmjKwAAAAJ) and [ORCID](https://orcid.org/0009-0002-0116-4659) pages.
 
 My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 
 ## Preprints
+* [Hyperplane Arrangements in the Grassmannian](https://arxiv.org/abs/2409.04288) (with Elia Mazzucchelli and Kexin Wang), arXiv:2409.04288, 2024.
 * [Santaló Geometry of Convex Polytopes](https://arxiv.org/abs/2402.18955) (with Simon Telen), arXiv:2402.18955, 2024.
 * [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) (with Eliana Duarte and Maximilian Wiesmann), arXiv:2308.11538, 2023.
 * [Combinatorics of *m*=1 Grasstopes](https://arxiv.org/abs/2307.09603) (with Yelena Mandelshtam and Elizabeth Pratt), arXiv:2307.09603, 2023.
