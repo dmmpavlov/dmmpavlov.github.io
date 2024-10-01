@@ -2,9 +2,9 @@
 
 <img align="right" width="198" height="288" src="docs/assets/images/PH24.jpg">
 
-I am a postdoctoral reseracher in the [Numerical Nonlinear Algebra group](https://www.mis.mpg.de/numerical-nonlinear-algebra) at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) in Leipzig. I did my PhD at the same institute under the supervision of [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://simontelen.webnode.page/). Before that, I was a masters student at Moscow State University, where my advisors were [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/) and Yury Razmyslov. I am primarily interested in real algebraic geometry and its applications to physics, in particular, to quantum information and particle scattering. My other mathematical interests include differential algebra and algebraic combinatorics.
+I am a postdoctoral reseracher in the [Real Algebraic Geometry group](https://tu-dresden.de/mn/math/geometrie/kummer/startseite/?set_language=en) of [Mario Kummer](https://tu-dresden.de/mn/math/geometrie/kummer/die-professur/inhaber-in) at [TU Dresden](https://tu-dresden.de). I did my PhD at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de) under the supervision of [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://simontelen.webnode.page/). Before that, I was a masters student at Moscow State University, where my advisors were [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/) and Yury Razmyslov. I am primarily interested in real algebraic geometry and its applications to physics, in particular, to quantum information and particle scattering. My other mathematical interests include differential algebra and algebraic combinatorics.
 
-Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Sep24.pdf). You can also view my [Google Scholar](https://scholar.google.com/citations?user=VwCmjKwAAAAJ) and [ORCID](https://orcid.org/0009-0002-0116-4659) pages.
+Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Oct24.pdf). You can also view my [Google Scholar](https://scholar.google.com/citations?user=VwCmjKwAAAAJ) and [ORCID](https://orcid.org/0009-0002-0116-4659) pages.
 
 My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 
