@@ -11,7 +11,7 @@ My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 ## Preprints
 * [From Feynman Diagrams to the Amplituhedron: A Gentle Review](https://arxiv.org/abs/2410.11757) (with Shounak De, Marcus Spradlin and Anastasia Volovich), arXiv:2410.11757, 2024.
 * [Hyperplane Arrangements in the Grassmannian](https://arxiv.org/abs/2409.04288) (with Elia Mazzucchelli and Kexin Wang), arXiv:2409.04288, 2024.
-* [Santaló Geometry of Convex Polytopes](https://arxiv.org/abs/2402.18955) (with Simon Telen), arXiv:2402.18955, 2024. Accepted in *SIAM Journal on Applied Algebra dnd Geometry*
+* [Santaló Geometry of Convex Polytopes](https://arxiv.org/abs/2402.18955) (with Simon Telen), arXiv:2402.18955, 2024. Accepted in *SIAM Journal on Applied Algebra and Geometry*
 * [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) (with Eliana Duarte and Maximilian Wiesmann), arXiv:2308.11538, 2023.
 * [Combinatorics of *m*=1 Grasstopes](https://arxiv.org/abs/2307.09603) (with Yelena Mandelshtam and Elizabeth Pratt), arXiv:2307.09603, 2023.
 * [On real and observable realizations of input-output equations](https://arxiv.org/abs/2303.16799) (with Sebastian Falkensteiner and J. Rafael Sendra), arXiv:2303.16799, 2023.
