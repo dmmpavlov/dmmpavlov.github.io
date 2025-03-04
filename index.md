@@ -4,11 +4,12 @@
 
 I am a postdoctoral reseracher in the [Real Algebraic Geometry group](https://tu-dresden.de/mn/math/geometrie/kummer/startseite/?set_language=en) of [Mario Kummer](https://tu-dresden.de/mn/math/geometrie/kummer/die-professur/inhaber-in) at [TU Dresden](https://tu-dresden.de). I did my PhD at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de) under the supervision of [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://simontelen.webnode.page/). Before that, I was a student at Moscow State University, where my advisors were [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/) and Yury Razmyslov. I am primarily interested in positive geometry, real algebraic geometry and their applications to physics. My other mathematical interests include differential algebra and algebraic combinatorics.
 
-Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Feb25.pdf). You can also view my [Google Scholar](https://scholar.google.com/citations?user=VwCmjKwAAAAJ) and [ORCID](https://orcid.org/0009-0002-0116-4659) pages.
+Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Mar25.pdf). You can also view my [Google Scholar](https://scholar.google.com/citations?user=VwCmjKwAAAAJ) and [ORCID](https://orcid.org/0009-0002-0116-4659) pages.
 
 My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 
 ## Preprints
+* [Positive Polytopes with Few Facets in the Grassmannian](https://arxiv.org/abs/2503.01652) (with Kristian Ranestad), arXiv:2503.01652, 2025.
 * [From Feynman Diagrams to the Amplituhedron: A Gentle Review](https://arxiv.org/abs/2410.11757) (with Shounak De, Marcus Spradlin and Anastasia Volovich), arXiv:2410.11757, 2024. Accepted in *Le Matematiche* special volume on Positive Geometry.
 * [Hyperplane Arrangements in the Grassmannian](https://arxiv.org/abs/2409.04288) (with Elia Mazzucchelli and Kexin Wang), arXiv:2409.04288, 2024. Accepted in *Le Matematiche* special volume on Positive Geometry.
 * [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) (with Eliana Duarte and Maximilian Wiesmann), arXiv:2308.11538, 2023. 
