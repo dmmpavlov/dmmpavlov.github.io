@@ -14,9 +14,9 @@ My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 * [Hyperplane Arrangements in the Grassmannian](https://arxiv.org/abs/2409.04288) (with Elia Mazzucchelli and Kexin Wang), arXiv:2409.04288, 2024. Accepted in *Le Matematiche* special volume on Positive Geometry.
 * [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) (with Eliana Duarte and Maximilian Wiesmann), arXiv:2308.11538, 2023. 
 * [Combinatorics of *m*=1 Grasstopes](https://arxiv.org/abs/2307.09603) (with Yelena Mandelshtam and Elizabeth Pratt), arXiv:2307.09603, 2023. Accepted in *Combinatorial Theory*.
-* [On real and observable realizations of input-output equations](https://arxiv.org/abs/2303.16799) (with Sebastian Falkensteiner and J. Rafael Sendra), arXiv:2303.16799, 2023. Accepted in *Systems and Control Letters*. 
 
 ## Published articles
+* [On real and observable rational realizations of input-output equations](https://doi.org/10.1016/j.sysconle.2025.106059) (with Sebastian Falkensteiner and J. Rafael Sendra), *Systems and Control Letters*, 2025. [Preprint](https://arxiv.org/abs/2303.16799) 
 * [Santaló Geometry of Convex Polytopes](https://doi.org/10.1137/24M1643566) (with Simon Telen), *SIAM Journal on Applied Algebra and Geometry*, 2025. [Preprint](https://arxiv.org/abs/2402.18955)
 * [Gibbs Manifolds](https://doi.org/10.1007/s41884-023-00111-2) (with Bernd Sturmfels and Simon Telen), *Information Geometry*, 2024. [Preprint](https://arxiv.org/abs/2211.15490)
 * [Logarithmically Sparse Symmetric Matrices](https://doi.org/10.1007/s13366-024-00753-y), *Beiträge zur Algebra und Geometrie*, 2024. [Preprint](https://arxiv.org/abs/2301.10042)
