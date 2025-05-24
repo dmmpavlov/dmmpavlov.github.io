@@ -10,12 +10,12 @@ My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 
 ## Preprints
 * [Positive Polytopes with Few Facets in the Grassmannian](https://arxiv.org/abs/2503.01652) (with Kristian Ranestad), arXiv:2503.01652, 2025.
-* [From Feynman Diagrams to the Amplituhedron: A Gentle Review](https://arxiv.org/abs/2410.11757) (with Shounak De, Marcus Spradlin and Anastasia Volovich), arXiv:2410.11757, 2024. Accepted in *Le Matematiche* special volume on Positive Geometry.
-* [Hyperplane Arrangements in the Grassmannian](https://arxiv.org/abs/2409.04288) (with Elia Mazzucchelli and Kexin Wang), arXiv:2409.04288, 2024. Accepted in *Le Matematiche* special volume on Positive Geometry.
 * [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) (with Eliana Duarte and Maximilian Wiesmann), arXiv:2308.11538, 2023. 
-* [Combinatorics of *m*=1 Grasstopes](https://arxiv.org/abs/2307.09603) (with Yelena Mandelshtam and Elizabeth Pratt), arXiv:2307.09603, 2023. Accepted in *Combinatorial Theory*.
+* [Combinatorics of *m*=1 Grasstopes](https://arxiv.org/abs/2307.09603) (with Yelena Mandelshtam and Elizabeth Pratt), arXiv:2307.09603, 2023. To appear in *Combinatorial Theory*.
 
 ## Published articles
+* [From Feynman Diagrams to the Amplituhedron: A Gentle Review](https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2735/1228) (with Shounak De, Marcus Spradlin and Anastasia Volovich), *Special volume on Positive Geometry, Le Matematiche*, 2025. [Preprint](https://arxiv.org/abs/2410.11757)
+* [Hyperplane Arrangements in the Grassmannian](https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2729/1235) (with Elia Mazzucchelli and Kexin Wang), *Special volume on Positive Geometry, Le Matematiche*, 2025. [Preprint](https://arxiv.org/abs/2409.04288)
 * [On real and observable rational realizations of input-output equations](https://doi.org/10.1016/j.sysconle.2025.106059) (with Sebastian Falkensteiner and J. Rafael Sendra), *Systems and Control Letters*, 2025. [Preprint](https://arxiv.org/abs/2303.16799) 
 * [Santaló Geometry of Convex Polytopes](https://doi.org/10.1137/24M1643566) (with Simon Telen), *SIAM Journal on Applied Algebra and Geometry*, 2025. [Preprint](https://arxiv.org/abs/2402.18955)
 * [Gibbs Manifolds](https://doi.org/10.1007/s41884-023-00111-2) (with Bernd Sturmfels and Simon Telen), *Information Geometry*, 2024. [Preprint](https://arxiv.org/abs/2211.15490)
