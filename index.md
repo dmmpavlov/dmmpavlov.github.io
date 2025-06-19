@@ -10,7 +10,7 @@ My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 
 ## Preprints
 * [Positive Polytopes with Few Facets in the Grassmannian](https://arxiv.org/abs/2503.01652) (with Kristian Ranestad), arXiv:2503.01652, 2025.
-* [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) (with Eliana Duarte and Maximilian Wiesmann), arXiv:2308.11538, 2023. 
+* [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) (with Eliana Duarte and Maximilian Wiesmann), arXiv:2308.11538, 2023. To appear in *Advances in Applied Mathematics*.
 * [Combinatorics of *m*=1 Grasstopes](https://arxiv.org/abs/2307.09603) (with Yelena Mandelshtam and Elizabeth Pratt), arXiv:2307.09603, 2023. To appear in *Combinatorial Theory*.
 
 ## Published articles
