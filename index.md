@@ -10,10 +10,10 @@ My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 
 ## Preprints
 * [Positive Polytopes with Few Facets in the Grassmannian](https://arxiv.org/abs/2503.01652) (with Kristian Ranestad), arXiv:2503.01652, 2025.
-* [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) (with Eliana Duarte and Maximilian Wiesmann), arXiv:2308.11538, 2023. To appear in *Advances in Applied Mathematics*.
 * [Combinatorics of *m*=1 Grasstopes](https://arxiv.org/abs/2307.09603) (with Yelena Mandelshtam and Elizabeth Pratt), arXiv:2307.09603, 2023. To appear in *Combinatorial Theory*.
 
 ## Published articles
+* [Algebraic Geometry of Quantum Graphical Models](https://www.sciencedirect.com/science/article/pii/S0196885825000922) (with Eliana Duarte and Maximilian Wiesmann), *Advances in Applied Mathematics*, 2025. [Preprint](https://arxiv.org/abs/2308.11538)
 * [From Feynman Diagrams to the Amplituhedron: A Gentle Review](https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2735/1228) (with Shounak De, Marcus Spradlin and Anastasia Volovich), *Special volume on Positive Geometry, Le Matematiche*, 2025. [Preprint](https://arxiv.org/abs/2410.11757)
 * [Hyperplane Arrangements in the Grassmannian](https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2729/1235) (with Elia Mazzucchelli and Kexin Wang), *Special volume on Positive Geometry, Le Matematiche*, 2025. [Preprint](https://arxiv.org/abs/2409.04288)
 * [On real and observable rational realizations of input-output equations](https://doi.org/10.1016/j.sysconle.2025.106059) (with Sebastian Falkensteiner and J. Rafael Sendra), *Systems and Control Letters*, 2025. [Preprint](https://arxiv.org/abs/2303.16799) 
