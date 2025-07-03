@@ -9,6 +9,7 @@ Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Mar25.pdf). You can also v
 My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
 
 ## Preprints
+* [Adjoints of Polytopes: Determinantal Representations and Smoothness](https://arxiv.org/abs/2507.01672) (with Clemens Brüser and Mario Kummer), arXiv:2507.01672, 2025. 
 * [Positive Polytopes with Few Facets in the Grassmannian](https://arxiv.org/abs/2503.01652) (with Kristian Ranestad), arXiv:2503.01652, 2025.
 * [Combinatorics of *m*=1 Grasstopes](https://arxiv.org/abs/2307.09603) (with Yelena Mandelshtam and Elizabeth Pratt), arXiv:2307.09603, 2023. To appear in *Combinatorial Theory*.
 
