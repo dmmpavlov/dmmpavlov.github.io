@@ -2,11 +2,11 @@
 
 <img align="right" width="225" height="288" src="docs/assets/images/Dmitrii1.jpg">
 
-I am a postdoctoral reseracher in the [Real Algebraic Geometry group](https://tu-dresden.de/mn/math/geometrie/kummer/startseite/?set_language=en) of [Mario Kummer](https://tu-dresden.de/mn/math/geometrie/kummer/die-professur/inhaber-in) at [TU Dresden](https://tu-dresden.de). I did my PhD at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de) under the supervision of [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://simontelen.webnode.page/). Before that, I was a student at Moscow State University, where my advisors were [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/) and Yury Razmyslov. I am primarily interested in positive geometry, real algebraic geometry and their applications to physics. My other mathematical interests include differential algebra and algebraic combinatorics.
+I am a mathematician working as a senior postdoc in the [Quantum Field Theory group](https://www.mpp.mpg.de/en/research/structure-of-matter/quantum-field-theory) of [Johannes Henn](https://www.mpp.mpg.de/en/about-us/organization/directors/prof-dr-johannes-henn) at the [Max Planck Institute for Physics](https://www.mpp.mpg.de/en/). Before that I was a postdoc in the [Real Algebraic Geometry group](https://tu-dresden.de/mn/math/geometrie/kummer/startseite/?set_language=en) of [Mario Kummer](https://tu-dresden.de/mn/math/geometrie/kummer/die-professur/inhaber-in) at [TU Dresden](https://tu-dresden.de). I did my PhD at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de) under the supervision of [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://simontelen.webnode.page/). I received my undegraduate degree at Moscow State University, where my advisors were [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/) and Yury Razmyslov. I am primarily interested in positive geometry, real algebraic geometry and their applications to physics. My other mathematical interests include differential algebra and algebraic combinatorics.
 
-Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Jul25.pdf). You can also view my [Google Scholar](https://scholar.google.com/citations?user=VwCmjKwAAAAJ) and [ORCID](https://orcid.org/0009-0002-0116-4659) pages.
+Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Oct25.pdf). You can also view my [Google Scholar](https://scholar.google.com/citations?user=VwCmjKwAAAAJ) and [ORCID](https://orcid.org/0009-0002-0116-4659) pages.
 
-My e-mail is [pavlov@mis.mpg.de](mailto:pavlov@mis.mpg.de)
+My e-mail is pavlov'at'mpp.mpg.de.
 
 ## Preprints
 * [Parke-Taylor varieties](https://arxiv.org/abs/2509.09323) (with Benjamin Hollering), arXiv:2509.09323, 2025. 
