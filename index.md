@@ -11,9 +11,9 @@ My e-mail is pavlov'at'mpp.mpg.de.
 ## Preprints
 * [Parke-Taylor varieties](https://arxiv.org/abs/2509.09323) (with Benjamin Hollering), arXiv:2509.09323, 2025. 
 * [Adjoints of Polytopes: Determinantal Representations and Smoothness](https://arxiv.org/abs/2507.01672) (with Clemens Brüser and Mario Kummer), arXiv:2507.01672, 2025. Accepted for publication in *International Mathematics Research Notices*.
-* [Positive Polytopes with Few Facets in the Grassmannian](https://arxiv.org/abs/2503.01652) (with Kristian Ranestad), arXiv:2503.01652, 2025. Accepted for publication in *Experimental Mathematics*. 
 
 ## Published articles
+* [Positive Polytopes with Few Facets in the Grassmannian](https://www.tandfonline.com/doi/full/10.1080/10586458.2025.2595003) (with Kristian Ranestad), *Experimental Mathematics*, 2026. [Preprint](https://arxiv.org/abs/2503.01652) 
 * [Combinatorics of *m*=1 Grasstopes](https://escholarship.org/uc/item/71d8d238) (with Yelena Mandelshtam and Elizabeth Pratt), *Combinatorial Theory*, 2025. [Preprint](https://arxiv.org/abs/2307.09603)
 * [Algebraic Geometry of Quantum Graphical Models](https://www.sciencedirect.com/science/article/pii/S0196885825000922) (with Eliana Duarte and Maximilian Wiesmann), *Advances in Applied Mathematics*, 2025. [Preprint](https://arxiv.org/abs/2308.11538)
 * [From Feynman Diagrams to the Amplituhedron: A Gentle Review](https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2735/1228) (with Shounak De, Marcus Spradlin and Anastasia Volovich), *Special volume on Positive Geometry, Le Matematiche*, 2025. [Preprint](https://arxiv.org/abs/2410.11757)
