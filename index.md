@@ -9,10 +9,11 @@ Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Oct25.pdf). You can also v
 My e-mail is pavlov'at'mpp.mpg.de.
 
 ## Preprints
-* [Parke-Taylor varieties](https://arxiv.org/abs/2509.09323) (with Benjamin Hollering), arXiv:2509.09323, 2025. 
-* [Adjoints of Polytopes: Determinantal Representations and Smoothness](https://arxiv.org/abs/2507.01672) (with Clemens Brüser and Mario Kummer), arXiv:2507.01672, 2025. Accepted for publication in *International Mathematics Research Notices*.
+* [Positive Genus Pairs from Amplituhedra](https://arxiv.org/abs/2601.11142) (with Joris Koefler and Rainer Sinn), arXiv:2601.11142, 2026.
+* [Parke-Taylor Varieties](https://arxiv.org/abs/2509.09323) (with Benjamin Hollering), arXiv:2509.09323, 2025. 
 
 ## Published articles
+* [Adjoints of Polytopes: Determinantal Representations and Smoothness](https://academic.oup.com/imrn/article-abstract/doi/10.1093/imrn/rnaf386/8427827?utm_source=authortollfreelink&utm_campaign=imrn&utm_medium=email) (with Clemens Brüser and Mario Kummer), *International Mathematics Research Notices*, 2026. [Preprint](https://arxiv.org/abs/2507.01672)
 * [Positive Polytopes with Few Facets in the Grassmannian](https://www.tandfonline.com/doi/full/10.1080/10586458.2025.2595003) (with Kristian Ranestad), *Experimental Mathematics*, 2026. [Preprint](https://arxiv.org/abs/2503.01652) 
 * [Combinatorics of *m*=1 Grasstopes](https://escholarship.org/uc/item/71d8d238) (with Yelena Mandelshtam and Elizabeth Pratt), *Combinatorial Theory*, 2025. [Preprint](https://arxiv.org/abs/2307.09603)
 * [Algebraic Geometry of Quantum Graphical Models](https://www.sciencedirect.com/science/article/pii/S0196885825000922) (with Eliana Duarte and Maximilian Wiesmann), *Advances in Applied Mathematics*, 2025. [Preprint](https://arxiv.org/abs/2308.11538)
