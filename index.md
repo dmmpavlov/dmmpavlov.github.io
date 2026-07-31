@@ -9,6 +9,7 @@ Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Jun26.pdf). You can also v
 My e-mail is pavlov'at'mpp.mpg.de.
 
 ## Preprints
+* [Log Canonical Models and Positive Geometries](https://arxiv.org/abs/2607.28368) (with Benjamin Hollering and Elizabeth Pratt), arXiv:2607.28368, 2026.
 * [Constraining Conformal Correlators](https://arxiv.org/abs/2605.31491) (with Viktoriia Borovik, Claire de Korte and Nathan Meurrens), arXiv:2605.31491, 2026.
 * [Positive Genus Pairs from Amplituhedra](https://arxiv.org/abs/2601.11142) (with Joris Koefler and Rainer Sinn), arXiv:2601.11142, 2026.
 * [Parke-Taylor Varieties](https://arxiv.org/abs/2509.09323) (with Benjamin Hollering), arXiv:2509.09323, 2025. 
