@@ -9,12 +9,10 @@ Here is my [CV](https://dmmpavlov.github.io/CV_Pavlov_Sep26.pdf). You can also v
 My e-mail is pavlov'at'mpp.mpg.de.
 
 ## Where to find me
-* [DMV Annual Meeting](https://www.dmv-jahrestagung.de), Sep 6-10, Konstanz.
-* [Annual Conference of Combinatorial Synergies](https://www.combinatorial-synergies.de/activities/2026-09_AnnualConference/), Sep 14-16, Frankfurt.
-* [UNIVERSE+ Annual Meeting](https://positive-geometry.com), Sep 28-Oct 2, Cambridge.
 * [Positive Geometry beyond Physics](https://www.mis.mpg.de/de/events/series/positive-geometry-beyond-physics), Oct 21-23, Leipzig.
 
 ## Preprints
+* [The *m*=2 Amplituhedron is a Positive Geometry](http://arxiv.org/abs/2610.27903) (with Joris Koefler and Rainer Sinn), arXiv:2610.27903, 2026.
 * [Log Canonical Models and Positive Geometries](https://arxiv.org/abs/2607.28368) (with Benjamin Hollering and Elizabeth Pratt), arXiv:2607.28368, 2026.
 * [Constraining Conformal Correlators](https://arxiv.org/abs/2605.31491) (with Viktoriia Borovik, Claire de Korte and Nathan Meurrens), arXiv:2605.31491, 2026.
 * [Positive Genus Pairs from Amplituhedra](https://arxiv.org/abs/2601.11142) (with Joris Koefler and Rainer Sinn), arXiv:2601.11142, 2026.
