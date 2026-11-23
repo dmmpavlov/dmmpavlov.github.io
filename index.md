@@ -16,7 +16,7 @@ My e-mail is pavlov'at'mpp.mpg.de.
 * [Log Canonical Models and Positive Geometries](https://arxiv.org/abs/2607.28368) (with Benjamin Hollering and Elizabeth Pratt), arXiv:2607.28368, 2026.
 * [Constraining Conformal Correlators](https://arxiv.org/abs/2605.31491) (with Viktoriia Borovik, Claire de Korte and Nathan Meurrens), arXiv:2605.31491, 2026.
 * [Positive Genus Pairs from Amplituhedra](https://arxiv.org/abs/2601.11142) (with Joris Koefler and Rainer Sinn), arXiv:2601.11142, 2026.
-* [Parke-Taylor Varieties](https://arxiv.org/abs/2509.09323) (with Benjamin Hollering), arXiv:2509.09323, 2025. 
+* [Parke-Taylor Varieties](https://arxiv.org/abs/2509.09323) (with Benjamin Hollering), arXiv:2509.09323, 2025. Accepted for publication in *Journal of the London Mathematical Society*.  
 
 ## Published articles
 * [Adjoints of Polytopes: Determinantal Representations and Smoothness](https://academic.oup.com/imrn/article-abstract/doi/10.1093/imrn/rnaf386/8427827?utm_source=authortollfreelink&utm_campaign=imrn&utm_medium=email) (with Clemens Brüser and Mario Kummer), *International Mathematics Research Notices*, 2026. [Preprint](https://arxiv.org/abs/2507.01672)
